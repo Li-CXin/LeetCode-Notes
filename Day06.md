@@ -1,4 +1,4 @@
-### Day06 h哈希表
+### Day06 哈希表01
 
 ## 242. Valid Anagram (有效的字母异位词)
 > **Tags**: [`#哈希表`](/search?q=链表) [`#数组`](/search?q=数组) [`#ascii码`](/search?q=ascii码)
